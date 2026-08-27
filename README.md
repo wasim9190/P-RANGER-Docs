@@ -4,6 +4,12 @@
 
 The **P-RANGER MINI V1.3** is a flight-proven avionics control board designed with robust power protection, comprehensive sensor fusion, and dual high-speed blackbox logging. Optimized for simple drone installation and multi-protocol hardware setup, the platform has undergone full bench-testing and successful flight validation on a quadcopter frame.
 
+<img width="1080" height="1920" alt="fly099" src="https://github.com/user-attachments/assets/2106f1f2-7d19-48e8-ab87-d54114fbe7b0" />
+
+Watch full video at
+
+https://www.linkedin.com/feed/update/urn:li:activity:7497364517048451072/
+
 ---
 
 ## 🚀 Flight Status & Validation
