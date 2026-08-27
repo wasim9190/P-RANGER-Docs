@@ -10,6 +10,14 @@ The **P-RANGER MINI V1.3** is a flight-proven avionics control board designed wi
 * **Flight Tested:** Successfully completed maiden flight testing on a quadcopter platform with excellent flight stability.
 * **Fully Verified:** 100% operational hardware and signal verification across all onboard sensors.
 * **Peripherals Tested:** Plug-and-play verified with u-blox GPS modules and SBUS protocol receivers.
+  
+  
+
+* <img width="440" height="342" alt="image" src="https://github.com/user-attachments/assets/157a93ef-93ac-4c7a-a170-f924ea73dccc" />
+
+
+<img width="440" height="341" alt="image" src="https://github.com/user-attachments/assets/b639894a-ea35-49f2-9da4-d098c8eec29d" />
+
 
 ---
 
